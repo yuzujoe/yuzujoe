@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I’m currently working on New Relic
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzujoe&layout=compact&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuzujoe&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **yuzujoe/yuzujoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
